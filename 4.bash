@@ -1,0 +1,1 @@
+kubectl create secret generic auth_basic --from-file=./4_1.txt --from-file=./4_2.txt
